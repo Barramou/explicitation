@@ -1,0 +1,8 @@
+name = Explicitation
+description = "Permet aux utilisateur d'expliciter et partager leurs connaissances"
+package = 
+core = 7.x
+version = "1.0"
+project = "TeTraKap"
+
+
